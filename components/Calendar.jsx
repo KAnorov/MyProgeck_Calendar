@@ -13,7 +13,7 @@ export default function Calendar() {
 
     return <>
         <fieldset className="calendar-container">
-            <legend><h1>Календарь</h1> </legend>
+            <legend><h1>Календарь!</h1> </legend>
             <div className="calendar-controls">
                 <input
                     type="month"
